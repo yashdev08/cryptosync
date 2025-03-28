@@ -3,8 +3,6 @@
 ## Description 
 - An interactive platform displaying trending cryptocurrencies, top 100 coin charts, and detailed chart patterns for individual coins.
 
-## Live Project
-https://cryptoverse-steel.vercel.app/
 
 ## Usage
 
